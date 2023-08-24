@@ -1,11 +1,14 @@
-<div align=center>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#00BFFF&height=200&section=header&text=0_0eong%20Github👋&fontSize=60"/>
-<a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=#00BFFF&text=junyeong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 <br>
 
-</div>
+<p align="center">
+    <Strong>☁️SNS List☁️</Strong><br><br>
+    <a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-535D6C?style=flat-square&logo=Velog&logoColor=white"/></a>
+    <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor="#E4405F"/></a>
+    <br>
+<br><br>
+<Strong>📧Email📧</Strong><br>wn8624@naver.com<br>
 
 <!--
 **wn8624/wn8624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
