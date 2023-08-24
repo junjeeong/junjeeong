@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=0_0eong%20Github👋&fontSize=60" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mesmerize0416)](https://solved.ac/profile/wn8624)/)
-
-
 <br>
 
 </div>
