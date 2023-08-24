@@ -1,7 +1,8 @@
 <div align=center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=0_0eong%20Github👋&fontSize=60" />
-
+[![Solved.ac
+wn8624](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 <br>
 
 </div>
