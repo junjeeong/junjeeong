@@ -5,7 +5,7 @@
 <p align="center">
     <Strong>☁️SNS List☁️</Strong><br><br>
     <a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-535D6C?style=flat-square&logo=Velog&logoColor=white"/></a>
-    <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor="#E4405F"/></a>
+    <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor="white"/></a>
     <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>wn8624@naver.com<br>
