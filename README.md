@@ -1,7 +1,7 @@
 <div align=center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=0_0eong%20Github👋&fontSize=60" />
-<a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/velog-#2EFE9A?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+<a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <br>
 
