@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=3A01DF&text=Junyeong's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=4000FF&height=300&section=header&text=Junyeong's%20Github&fontSize=90" />
 
 <br>
 
