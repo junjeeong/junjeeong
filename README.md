@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4000FF&height=300&section=header&text=Junyeong's%20Github&fontSize=90" />
+</div>
 
 <br>
 
