@@ -31,7 +31,7 @@
 
 <div align="center">
     
-![wn8624's github stats](https://github-readme-stats.vercel.app/api?username=wn8624&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wn8624&show_icons=true&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wn8624)](https://solved.ac/wn8624/)
     
 </div>
