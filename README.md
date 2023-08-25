@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=300&section=header&text=Junyeong's%20Github👋&fontSize=700&fontColor=0404B4"/>
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=300&section=header&text=Junyeong's%20Github👋&fontSize=700px&fontColor=0404B4"/>
 </div>
 <p align="center">
     <Strong>☁️SNS List☁️</Strong><br><br>
