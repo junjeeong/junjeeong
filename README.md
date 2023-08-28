@@ -9,10 +9,9 @@
     </p><br><br>
     <p ><Strong >☁️SNS List☁️</Strong></p>
     <a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-    <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
-    <br>
-    <p ><Strong >📧Email📧</Strong><br>wn8624@naver.com<br></p>
-    <Strong>⚒️Stack⚒️</Strong><br>
+    <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br><br>
+    <p ><Strong >📧Email📧</Strong><br>wn8624@naver.com</p><br><br>
+    <Strong>⚒️Stack⚒️</Strong><br><br>
     <p align="center" display="inline-block">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,5 +19,8 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     </p>
 </div>
-
 <br>
+<div align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0eong&show_icons=true&theme=radical)
+    ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wn8624)](https://solved.ac/wn8624/)
+</div>
