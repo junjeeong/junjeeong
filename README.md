@@ -6,6 +6,7 @@
     <a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
     <br>
+<br>
 <Strong>📧Email📧</Strong><br>wn8624@naver.com<br>
 <br>
 <p align="center">
