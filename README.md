@@ -23,6 +23,6 @@
 </div>
 <br>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0eong&show_icons=true&theme=default)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0-0eong)](https://solved.ac/0-0eong/)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0eong&show_icons=true&theme=default)
+    ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wn8624)](https://solved.ac/wn8624/)
 </div>
