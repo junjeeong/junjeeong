@@ -12,7 +12,6 @@
     <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a><br>
     <br>
     <p ><Strong >📧Email📧</Strong><br>wn8624@naver.com<br></p>
-    <br>
     <Strong>⚒️Stack⚒️</Strong><br>
     <p align="center" display="inline-block">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
