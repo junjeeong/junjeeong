@@ -1,12 +1,12 @@
 
 <img algin="center" src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=200&section=header&text=Junyeong's%20Github👋&fontSize=70&fontColor=0404B4"/>
 <p algin="center">
-    <Strong>☁️SNS List☁️</Strong><br><br>
+    <Strong algin="center">☁️SNS List☁️</Strong><br><br>
     <a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
     <a href="https://www.instagram.com/0_0eong/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
     <br>
 <br><br>
-<Strong>📧Email📧</Strong><br>wn8624@naver.com<br>
+<Strong algin="center">📧Email📧</Strong><br>wn8624@naver.com<br>
 <br>
     <p align="center">
     반갑습니다👐 <br>
