@@ -20,5 +20,5 @@
     </p>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-0eong&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjeeong&show_icons=true&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wn8624)](https://solved.ac/wn8624/)
