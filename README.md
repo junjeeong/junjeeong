@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=200&section=header&text=Junyeong's%20Github👋&fontSize=70&fontColor=0404B4"/>
     <p >
     반갑습니다👐 <br>
-    “성장의 지름길은 끈임없이 물음표를 던지는 것이다.” <br>
+    “성장의 지름길은 끊임없이 물음표를 던지는 것이다.” <br>
     라는 신조로 프론트엔드 개발자를 준비하고 있는 정준영입니다!<br><br>
     부트캠프, 제로베이스 프론트엔드 스쿨을 통해 기초를 다지고 있으며<br>
     동료가 곧 선생님이라는 생각으로 현재 자바스크립트 토론스터디를 즐겨 하고 있습니다."
