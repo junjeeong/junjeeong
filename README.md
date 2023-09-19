@@ -4,8 +4,8 @@
     반갑습니다👐 <br>
     “성장의 지름길은 끊임없이 물음표를 던지는 것이다.” <br>
     라는 신조로 프론트엔드 개발자를 준비하고 있는 정준영입니다!<br><br>
-    부트캠프, 제로베이스 프론트엔드 스쿨을 통해 기초를 다지고 있으며<br>
-    동료가 곧 선생님이라는 생각으로 현재 자바스크립트 토론스터디를 즐겨 하고 있습니다."
+    부트캠프, 제로베이스 프론트엔드 스쿨을 통해 초석을 다지고 있으며<br>
+    동료가 곧 선생님이라는 생각으로 현재 모던자바스크립트 북스터디를 진행하고 있습니다."
     </p><br><br>
     <p ><Strong >☁️SNS List☁️</Strong></p>
     <a href="https://velog.io/@wn8624" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
