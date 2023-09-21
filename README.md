@@ -1,6 +1,5 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=FFFFFF&height=200&section=header&text=Junyeong's%20Github👋&fontSize=70&fontColor=0404B4"/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjeeong&show_icons=true&theme=default)
     <p >
     반갑습니다👐 <br>
     “성장의 지름길은 끊임없이 물음표를 던지는 것이다.” <br>
